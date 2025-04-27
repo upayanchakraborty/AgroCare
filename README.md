@@ -41,6 +41,7 @@ This project focuses on detecting plant diseases using deep learning techniques.
 ## Author
 
 - [@sandipanrakshit34](https://github.com/sandipanrakshit34)
+- [upayanchakraborty](https://github.com/upayanchakraborty)
 
 ##
 
